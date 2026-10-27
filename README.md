@@ -1,4 +1,4 @@
-# Machine-learning-predicts-microbial-diversity
+# Machine learning predicts microbial diversity
 We developed a machine-learning workflow to predict bacterial and microeukaryotic community β-diversity across water, sediment, and soil habitats. The workflow integrated climatic and physicochemical variables with community assembly metrics, including the β-diversity of taxa linked to dispersal limitation and the relative importance of dispersal limitation, and benchmarked nine regression algorithms after collinearity filtering. The best-performing models were then used to assess predictor importance and screen environmental and assembly conditions associated with higher predicted β-diversity.
 
 #Analysis workflows
