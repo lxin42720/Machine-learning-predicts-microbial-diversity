@@ -1,0 +1,6 @@
+"Outer_fold","Predictors","N_environment"
+1,"EC;MAP;DL_process;DL_LCBD;Cropland;Grassland;Impervious.surface;MAT;NH4.N_SD;NO3.N_SD;pH_SD;Shrubland;TC_SD;TN_SD;Water;Wetland",12
+2,"EC;MAP;DL_process;DL_LCBD;Cropland;Grassland;Impervious.surface;MAT;NH4.N_SD;NO3.N_SD;pH_SD;Shrubland;TC_SD;TN_SD;Water;Wetland",12
+3,"EC;MAP;DL_process;DL_LCBD;Cropland;Grassland;Impervious.surface;MAT;NH4.N_SD;NO3.N_SD;pH_SD;Shrubland;TC_SD;TN_SD;Water;Wetland",12
+4,"EC;MAP;DL_process;DL_LCBD;Bareland;Cropland;Grassland;Impervious.surface;MAT;NH4.N_SD;NO3.N_SD;pH_SD;Shrubland;TC_SD;TN_SD;Water;Wetland",13
+5,"EC;MAP;DL_process;DL_LCBD;Bareland;Cropland;Grassland;Impervious.surface;MAT;NH4.N_SD;NO3.N_SD;pH_SD;Shrubland;TC_SD;TN_SD;Water;Wetland",13

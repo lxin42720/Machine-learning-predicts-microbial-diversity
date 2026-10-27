@@ -1,0 +1,7 @@
+"Model","Predictor","Scaled","Training_mean","Training_sd"
+"RF","EC",FALSE,NA,NA
+"RF","MAP",FALSE,NA,NA
+"RF","DL_process",FALSE,NA,NA
+"RF","DL_LCBD",FALSE,NA,NA
+"RF","pH_SD",FALSE,NA,NA
+"RF","TC_SD",FALSE,NA,NA

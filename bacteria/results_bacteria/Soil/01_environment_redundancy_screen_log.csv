@@ -1,0 +1,9 @@
+"Fold","Removed","Reason","Pair","Value","Step"
+"outer_1","Bareland","redundant_with_EC_or_MAP","Bareland ~ MAP",0.724375167702782,1
+"outer_1","Forest","redundant_with_EC_or_MAP","Forest ~ MAP",0.758759927459996,2
+"outer_2","Bareland","redundant_with_EC_or_MAP","Bareland ~ MAP",0.731188469533584,1
+"outer_2","Forest","redundant_with_EC_or_MAP","Forest ~ MAP",0.756022726355103,2
+"outer_3","Bareland","redundant_with_EC_or_MAP","Bareland ~ MAP",0.778643110544615,1
+"outer_3","Forest","redundant_with_EC_or_MAP","Forest ~ MAP",0.753942394239879,2
+"outer_4","Forest","redundant_with_EC_or_MAP","Forest ~ MAP",0.763065606331524,1
+"outer_5","Forest","redundant_with_EC_or_MAP","Forest ~ MAP",0.742669488807042,1

@@ -1,0 +1,8 @@
+"Model","Predictor","Scaled","Training_mean","Training_sd"
+"LightGBM","EC",FALSE,NA,NA
+"LightGBM","MAP",FALSE,NA,NA
+"LightGBM","DL_process",FALSE,NA,NA
+"LightGBM","DL_LCBD",FALSE,NA,NA
+"LightGBM","MAT",FALSE,NA,NA
+"LightGBM","NH4.",FALSE,NA,NA
+"LightGBM","Shrubland",FALSE,NA,NA

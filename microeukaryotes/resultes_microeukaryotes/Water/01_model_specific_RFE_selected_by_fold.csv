@@ -1,0 +1,46 @@
+"Model","Outer_fold","Predictors","N_environment","Inner_RMSE"
+"Linear Reg",1,"EC;MAP;DL_process;DL_LCBD;DO;MAT;NH4.;pH",4,0.000699260773151085
+"Linear Reg",2,"EC;MAP;DL_process;DL_LCBD;DO;F;MAT;NH4.;no3;Temp",6,0.000771519766614681
+"Linear Reg",3,"EC;MAP;DL_process;DL_LCBD;DO;Grassland;K.;MAT;NH4.;no2;Shrubland;Water",8,0.000737238796370163
+"Linear Reg",4,"EC;MAP;DL_process;DL_LCBD",0,0.000721418456384484
+"Linear Reg",5,"EC;MAP;DL_process;DL_LCBD",0,0.000806235548267741
+"Ridge",1,"EC;MAP;DL_process;DL_LCBD;DO;Impervious.surface;K.;MAT;NH4.;pH;Shrubland;Water",8,0.00077968325031974
+"Ridge",2,"EC;MAP;DL_process;DL_LCBD;DO;MAT;NH4.",3,0.00087212818314612
+"Ridge",3,"EC;MAP;DL_process;DL_LCBD;Cropland;DO;K.;MAT;NH4.;no3",6,0.000823269267747104
+"Ridge",4,"EC;MAP;DL_process;DL_LCBD;DO;NH4.;no3;Shrubland;Water",5,0.000770383857978972
+"Ridge",5,"EC;MAP;DL_process;DL_LCBD;DO;K.;MAT;NH4.;Shrubland;Water",6,0.00078352018707757
+"Elastic Net",1,"EC;MAP;DL_process;DL_LCBD;DO;MAT;NH4.;pH;Shrubland;Water",6,0.000680446821873395
+"Elastic Net",2,"EC;MAP;DL_process;DL_LCBD;DO;MAT;NH4.;no3;Temp",5,0.000798008826495322
+"Elastic Net",3,"EC;MAP;DL_process;DL_LCBD;DO;MAT;NH4.",3,0.000793311598112768
+"Elastic Net",4,"EC;MAP;DL_process;DL_LCBD",0,0.000734803545262308
+"Elastic Net",5,"EC;MAP;DL_process;DL_LCBD;Bareland;Ca2.;Cropland;DO;F;K.;MAT;NH4.;no2;Shrubland;Water;Wetland",12,0.000806714951773211
+"KNN",1,"EC;MAP;DL_process;DL_LCBD;MAT",1,0.00086423979287559
+"KNN",2,"EC;MAP;DL_process;DL_LCBD;MAT;NH4.;Wetland",3,0.000893571431636276
+"KNN",3,"EC;MAP;DL_process;DL_LCBD;Cropland;K.;Shrubland",3,0.000787312501301564
+"KNN",4,"EC;MAP;DL_process;DL_LCBD;Shrubland",1,0.000715207052535503
+"KNN",5,"EC;MAP;DL_process;DL_LCBD;K.;MAT",2,0.000932611148556897
+"SVR",1,"EC;MAP;DL_process;DL_LCBD;MAT",1,0.000805013599088254
+"SVR",2,"EC;MAP;DL_process;DL_LCBD;MAT;NH4.;pH;Shrubland",4,0.000783888649659235
+"SVR",3,"EC;MAP;DL_process;DL_LCBD;MAT;Shrubland",2,0.000754285492612542
+"SVR",4,"EC;MAP;DL_process;DL_LCBD;Bareland;MAT;Shrubland",3,0.000695000547628431
+"SVR",5,"EC;MAP;DL_process;DL_LCBD;DO;K.;NH4.;Shrubland;Water",5,0.000852309088935148
+"ANN",1,"EC;MAP;DL_process;DL_LCBD;Grassland;Impervious.surface;MAT;NH4.;no3;po4;Temp",7,0.000717947080739999
+"ANN",2,"EC;MAP;DL_process;DL_LCBD;Shrubland",1,0.000765061893713933
+"ANN",3,"EC;MAP;DL_process;DL_LCBD;Ca2.;Grassland;K.;MAT;NH4.;Shrubland;Water;Wetland",8,0.000765645913639154
+"ANN",4,"EC;MAP;DL_process;DL_LCBD;Bareland;Shrubland",2,0.000666066919734328
+"ANN",5,"EC;MAP;DL_process;DL_LCBD;Bareland;Ca2.;Cropland;DO;F;Grassland;Impervious.surface;K.;MAT;no2;po4;Shrubland;Temp;Water;Wetland",15,0.000729253016818939
+"RF",1,"EC;MAP;DL_process;DL_LCBD;DO;MAT;NH4.;no3;Shrubland",5,0.000813663585500377
+"RF",2,"EC;MAP;DL_process;DL_LCBD;MAT;NH4.;no2;po4;Shrubland;Wetland",6,0.00077413653037331
+"RF",3,"EC;MAP;DL_process;DL_LCBD;MAT;NH4.;po4;Shrubland;Wetland",5,0.000755527950971296
+"RF",4,"EC;MAP;DL_process;DL_LCBD;MAT;Shrubland",2,0.000703028018727296
+"RF",5,"EC;MAP;DL_process;DL_LCBD;MAT;NH4.;Shrubland;Water",4,0.000794623975325025
+"XGBoost",1,"EC;MAP;DL_process;DL_LCBD;DO;MAT;NH4.;po4",4,0.00082854418058388
+"XGBoost",2,"EC;MAP;DL_process;DL_LCBD;NH4.;po4;Shrubland;Wetland",4,0.000806324005289804
+"XGBoost",3,"EC;MAP;DL_process;DL_LCBD;MAT;NH4.;po4;Shrubland",4,0.000764244782643174
+"XGBoost",4,"EC;MAP;DL_process;DL_LCBD;DO;F;Grassland;MAT;NH4.;no2;po4;Shrubland;Water",9,0.00077852555756371
+"XGBoost",5,"EC;MAP;DL_process;DL_LCBD;MAT;NH4.;Shrubland;Water;Wetland",5,0.000796784485997629
+"LightGBM",1,"EC;MAP;DL_process;DL_LCBD;MAT;NH4.;Shrubland",3,0.000808643976849731
+"LightGBM",2,"EC;MAP;DL_process;DL_LCBD;DO;MAT;NH4.;pH;po4;Shrubland;Wetland",7,0.000785957895332045
+"LightGBM",3,"EC;MAP;DL_process;DL_LCBD;NH4.",1,0.000770072889178037
+"LightGBM",4,"EC;MAP;DL_process;DL_LCBD;Bareland",1,0.000673753343297122
+"LightGBM",5,"EC;MAP;DL_process;DL_LCBD;MAT;NH4.;Shrubland;Wetland",4,0.000838103484337927

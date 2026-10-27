@@ -1,0 +1,27 @@
+"Fold","Removed","Reason","Pair","Value","Step"
+"outer_1","Bareland","redundant_with_EC_or_MAP","Bareland ~ MAP",0.724375167702782,1
+"outer_1","CL","redundant_with_EC_or_MAP","CL ~ EC",0.737953729493218,2
+"outer_1","Forest","redundant_with_EC_or_MAP","Forest ~ MAP",0.758759927459996,3
+"outer_1","Mg2.","redundant_with_EC_or_MAP","Mg2. ~ EC",0.889525642814571,4
+"outer_1","Na.","redundant_with_EC_or_MAP","Na. ~ EC",0.788892827417047,5
+"outer_1","so4","redundant_with_EC_or_MAP","so4 ~ EC",0.890588772467125,6
+"outer_2","Bareland","redundant_with_EC_or_MAP","Bareland ~ MAP",0.731188469533584,1
+"outer_2","Forest","redundant_with_EC_or_MAP","Forest ~ MAP",0.756022726355103,2
+"outer_2","Mg2.","redundant_with_EC_or_MAP","Mg2. ~ EC",0.894405629640394,3
+"outer_2","Na.","redundant_with_EC_or_MAP","Na. ~ EC",0.83083988959286,4
+"outer_2","so4","redundant_with_EC_or_MAP","so4 ~ EC",0.784912298782189,5
+"outer_3","Bareland","redundant_with_EC_or_MAP","Bareland ~ MAP",0.778643110544615,1
+"outer_3","Forest","redundant_with_EC_or_MAP","Forest ~ MAP",0.753942394239879,2
+"outer_3","Mg2.","redundant_with_EC_or_MAP","Mg2. ~ EC",0.877247498813468,3
+"outer_3","Na.","redundant_with_EC_or_MAP","Na. ~ EC",0.796591620104639,4
+"outer_3","so4","redundant_with_EC_or_MAP","so4 ~ EC",0.773829474784802,5
+"outer_4","CL","redundant_with_EC_or_MAP","CL ~ EC",0.782256056535576,1
+"outer_4","Forest","redundant_with_EC_or_MAP","Forest ~ MAP",0.763065606331524,2
+"outer_4","Mg2.","redundant_with_EC_or_MAP","Mg2. ~ EC",0.871732482711682,3
+"outer_4","Na.","redundant_with_EC_or_MAP","Na. ~ EC",0.850761730327909,4
+"outer_4","so4","redundant_with_EC_or_MAP","so4 ~ EC",0.794891215135725,5
+"outer_5","CL","redundant_with_EC_or_MAP","CL ~ EC",0.722958910326945,1
+"outer_5","Forest","redundant_with_EC_or_MAP","Forest ~ MAP",0.742669488807042,2
+"outer_5","Mg2.","redundant_with_EC_or_MAP","Mg2. ~ EC",0.880651198639089,3
+"outer_5","Na.","redundant_with_EC_or_MAP","Na. ~ EC",0.825449873519392,4
+"outer_5","so4","redundant_with_EC_or_MAP","so4 ~ EC",0.77451507396888,5

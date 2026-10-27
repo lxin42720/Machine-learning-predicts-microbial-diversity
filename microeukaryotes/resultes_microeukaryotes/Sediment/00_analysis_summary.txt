@@ -1,0 +1,26 @@
+Habitat: Sediment
+N samples: 104
+Input file: d:/Dpan/R data/R data/Tibet_rivers_2023/tibet2023_buchongdata/ml_input_data/18s/Sediment_18S_ML_master_input_data_20260928.xlsx
+Protected core: EC, MAP, DL_process, DL_LCBD
+Auxiliary variables excluded from ML: DR_process, DR_LCBD
+Selected environmental predictors: pH_SD, TC_SD
+Final predictors: EC, MAP, DL_process, DL_LCBD, pH_SD, TC_SD
+Best model: RF
+Best OOF R2: 0.6733
+Best OOF RMSE: 0.000807849
+Best OOF MAE: 0.000654674
+Best OOF Pearson r: 0.8243
+Low MAP group threshold P10: 352.61
+High MAP group threshold P90: 1050.29
+Low MAP sensitivity threshold P20: 404.48
+High MAP sensitivity threshold P80: 808.2
+Scatter color: #B15928
+DR_process and DR_LCBD were excluded from spatialRF screening, model-specific RFE, all nine ML models, SHAP and virtual screening.
+DR linear fits use the exact best-model OOF predictions generated in this same run.
+Observed-vs-predicted plot uses identical x/y limits and tick positions.
+Model performance is based only on pooled outer-fold OOF predictions.
+SVR, ANN, RF, XGBoost and LightGBM use expanded inner-CV tuning spaces; outer test folds are never used for hyperparameter selection.
+Full-data refit is used only for SHAP and virtual screening.
+Virtual screening uses scenario-specific observed environmental backgrounds: only DL_LCBD and DL_process are overwritten; MAP and all other retained predictors remain at each scenario sample's observed values.
+Predictions are averaged equally across the real samples within each MAP-decile scenario.
+No secondary GAM/BAM smoothing is applied; virtual-screening figures and scenario contrasts use the raw winner-model prediction grid directly.

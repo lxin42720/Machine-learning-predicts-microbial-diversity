@@ -1,0 +1,13 @@
+16S Water/Sediment/Soil integrated workflow completed.
+The three habitats were modeled independently rather than pooled into one model.
+All habitats used the same protected-core, model-specific RFE, nested-CV, SHAP and scenario-specific virtual-screening logic.
+DR_process and DR_LCBD remain downstream-only variables and are related to the same winner-model outer-fold OOF predictions.
+Virtual screening uses the already fitted full-data winner; the ML model is not retrained for the 10% and 20% MAP-tail analyses.
+The primary extreme scenario compares MAP <= P10 with MAP >= P90.
+The sensitivity scenario compares MAP <= P20 with MAP >= P80.
+Within each scenario, only DL_LCBD and DL_process are overwritten; MAP, EC and every other retained predictor preserve each real scenario sample's observed value.
+Virtual predictions are averaged equally across the real samples in each MAP-tail background.
+A 120 x 120 DL grid and batched prediction are used for computational efficiency without changing the estimand.
+BAM smoothing is visualization-only; Low-minus-High contrasts are calculated from raw winner-model predictions.
+The 10% and 20% combined virtual-screening figures are both arranged as 2 rows x 3 habitats.
+Both virtual-screening figures share one global predicted-LCBD color scale across all 12 surfaces.

@@ -1,0 +1,4 @@
+"Habitat","Input_file","Output_directory","File_exists"
+"Water","d:/Dpan/R data/R data/Tibet_rivers_2023/tibet2023_buchongdata/ml_input_data/18s/Water_18S_ML_master_input_data_20260928.xlsx","d:/Dpan/R data/R data/Tibet_rivers_2023/tibet2023_buchongdata/ml_input_data/18s/18S_3Habitat_9ML_ENV_RHO070_RFE_STABILITY_FINAL/Water",TRUE
+"Sediment","d:/Dpan/R data/R data/Tibet_rivers_2023/tibet2023_buchongdata/ml_input_data/18s/Sediment_18S_ML_master_input_data_20260928.xlsx","d:/Dpan/R data/R data/Tibet_rivers_2023/tibet2023_buchongdata/ml_input_data/18s/18S_3Habitat_9ML_ENV_RHO070_RFE_STABILITY_FINAL/Sediment",TRUE
+"Soil","d:/Dpan/R data/R data/Tibet_rivers_2023/tibet2023_buchongdata/ml_input_data/18s/Soil_18S_ML_master_input_data_20260928.xlsx","d:/Dpan/R data/R data/Tibet_rivers_2023/tibet2023_buchongdata/ml_input_data/18s/18S_3Habitat_9ML_ENV_RHO070_RFE_STABILITY_FINAL/Soil",TRUE
